@@ -1,0 +1,10 @@
+
+@smokeTest2
+Scenario:                                        [90m# src/test/java/FeatureFile/CreateAnAccount.feature:3[0m
+  [32mGiven [0m[32mfrom the Home page click on Account link[0m [90m# StepDefinition.SD_02CreateAnAccount.from_the_home_page_click_on_account_link()[0m
+  [32mThen [0m[32mclick on CreateAnAccount button[0m           [90m# StepDefinition.SD_02CreateAnAccount.click_on_create_an_account_button()[0m
+
+@smokeTest2
+Scenario:                                                      [90m# src/test/java/FeatureFile/NavigatetoHNWesite.feature:3[0m
+  [32mGiven [0m[32mOpen Browser and enter Url and Navigate to GG homepage[0m [90m# StepDefinition.SD_01NavigateToHN.open_browser_and_enter_url_and_navigate_to_gg_homepage()[0m
+  [32mThen [0m[32mget Title assert[0m                                        [90m# StepDefinition.SD_01NavigateToHN.get_title_assert()[0m
