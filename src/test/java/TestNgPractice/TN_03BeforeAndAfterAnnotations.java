@@ -18,7 +18,14 @@ public class TN_03BeforeAndAfterAnnotations {
     public void test02(){
         System.out.println("test02 executed");
 
+        }
+    @Test
+    public void test03(){
+        System.out.println("test03 executed");
+
     }
+
+
     @AfterClass
     public void afterClass(){
         System.out.println("method2 executed");
